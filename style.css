@@ -15,11 +15,22 @@ body{
    font-family: sans-serif;
    text-align: center;
    padding: left;
+   
 }
 .tb{
 font-size: 50px;
 height: 75;
 
+}
+.container{
+   background-color:plum;
+   width: 50vh;
+   display: flex;
+   flex-direction: column;
+   justify-items: center;
+   margin-left:25px ;
+   margin-top: 10px;
+   
 }
 .one{
     background-color:#FFFECC;
@@ -43,7 +54,8 @@ height: 75;
    background-color: #fee789; 
  }
  .span{
-    margin-left: 300px;
+    margin-left: 265px;
+    margin-top: 30px;
 
  }
  .Eight{
