@@ -1,0 +1,63 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+h1{
+   font-family: center;
+   font-size: 40px;
+   height: 40px;
+   width: auto;
+
+}
+ 
+body{
+   font-family: sans-serif;
+   text-align: center;
+   padding: left;
+   
+}
+.tb{
+font-size: 50px;
+height: 75;
+
+}
+.container{
+   background-color:plum;
+   width: 50vh;
+   display: flex;
+   flex-direction: column;
+   justify-items: center;
+   margin-left:25px ;
+   margin-top: 10px;
+   
+}
+.one{
+    background-color:#FFFECC;
+}
+.Two{
+    background-color: #ffd2cf;
+ }
+ .Three{
+    background-color: #D2D3FF;
+ }
+ .Four{
+    background-color: #c6deff;
+ }
+ .Five{
+    background-color: #e3efc7;
+ }
+ .Six{
+    background-color: #cffdc9;
+ }
+ .Seven{
+   background-color: #fee789; 
+ }
+ .span{
+    margin-left: 265px;
+    margin-top: 30px;
+
+ }
+ .Eight{
+    background-color: #8eedf4;
+ }
